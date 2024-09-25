@@ -1,6 +1,6 @@
 @import url("../dist/theme/black.css");
 
-@import url("https://smc.org.in/fonts/css/fonts.css");
+@import url("https://smc.org.in/fonts/malini.css");
 
 /*********************************************
 * GLOBAL STYLES
@@ -14,7 +14,7 @@
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: "Malini", Source Sans Pro, Helvetica, sans-serif;
   --r-heading-color: #fff;
-  --r-heading-line-height: 1.2;
+  --r-heading-line-height: 1.5;
   --r-heading-letter-spacing: normal;
   --r-heading-text-transform: uppercase;
   --r-heading-text-shadow: none;
